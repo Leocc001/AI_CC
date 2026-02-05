@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring-ai-alibaba-qwq-chat-client-example
+    name: cc-ai-agent
   ai:
     dashscope:
       api-key: "sk-773a5ee4f74f4696ba1286c1671ab123"
