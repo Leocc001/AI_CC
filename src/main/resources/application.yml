@@ -9,7 +9,7 @@ spring:
     ollama:
       base-url: http://localhost:11434
       chat:
-        model: llama3
+        model: deepseek-v3.2:cloud
 
 server:
   port: 8123
