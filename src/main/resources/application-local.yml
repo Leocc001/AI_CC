@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: cc-ai-agent
-  ai:
-    dashscope:
-      api-key: "000"
-      chat:
-        options:
-          model: qwen-plus
